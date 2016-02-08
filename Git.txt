@@ -1,3 +1,11 @@
 git init
 
 git clone path/to/repository
+
+
+[Working Dir] 	[Index (Stage)]	[HEAD]
+
+git add <filename>
+git add *
+
+git commit -m "Commit message"
