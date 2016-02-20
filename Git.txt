@@ -13,3 +13,12 @@ git commit -m "Commit message"
 git push origin master
 
 git remote add origin <server>
+
+@github - push
+git remote add origin https://github.com/ghtso/test.git
+git push -u origin master
+
+@bitbucket - push
+cd /path/to/my/repo
+git remote add origin ssh://git@bitbucket.org/username/bbreponame.git
+git push -u origin --all
