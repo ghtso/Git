@@ -1,2 +1,2 @@
 # Git
-Jak używać Git.
+How to use Git
