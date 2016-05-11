@@ -22,3 +22,8 @@ git push -u origin master
 cd /path/to/my/repo
 git remote add origin ssh://git@bitbucket.org/username/bbreponame.git
 git push -u origin --all
+
+#
+git commit --amend
+It can also be used to simply edit the previous commit message without changing its snapshot.
+
